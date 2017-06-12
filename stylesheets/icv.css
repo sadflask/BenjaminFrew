@@ -1,0 +1,30 @@
+.left-wrapper {
+	width: 30%;
+	display: inline-block;
+	float:left;
+	
+}
+.left {
+	padding: 20px;
+}
+.right-wrapper {
+	width:70%;
+	display: inline-block;
+	float:left;
+}
+.right {
+	padding: 20px;
+}
+.content-wrapper {
+	width:100%;
+}
+img {
+	width: 100%;
+}
+body {
+	overflow:auto;
+}
+.slideshow {
+	width: 70%;
+	margin-left: 15%;
+}
