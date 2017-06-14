@@ -488,6 +488,7 @@ header h2 {
   border-top: solid 1px #fff;
   background-image: url("https://static.pexels.com/photos/169573/pexels-photo-169573.jpeg");
   background-size: 100%;
+  background-attachment: fixed;
 }
 
 #main-content {
